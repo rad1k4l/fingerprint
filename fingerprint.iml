@@ -66,6 +66,6 @@
     <orderEntry type="library" name="Maven: ch.qos.logback:logback-core:1.2.3" level="project" />
     <orderEntry type="library" name="Maven: org.jetbrains:annotations:19.0.0" level="project" />
     <orderEntry type="library" name="Maven: org.mongodb:bson:3.11.2" level="project" />
-    <orderEntry type="library" name="Maven: org.java-websocket:Java-WebSocket:1.4.0" level="project" />
+    <orderEntry type="library" name="Maven: org.java-websocket:Java-WebSocket:1.5.1" level="project" />
   </component>
 </module>

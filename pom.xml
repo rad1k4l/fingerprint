@@ -12,6 +12,7 @@
     </properties>
 
     <dependencies>
+
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
@@ -30,7 +31,7 @@
         </dependency>
 
         <dependency>
-            <groupId> org.apache.cassandra</groupId>
+            <groupId>org.apache.cassandra</groupId>
             <artifactId>cassandra-all</artifactId>
             <version>0.8.1</version>
             <exclusions>
@@ -72,7 +73,7 @@
         <dependency>
             <groupId>org.java-websocket</groupId>
             <artifactId>Java-WebSocket</artifactId>
-            <version>1.4.0</version>
+            <version>[1.5.0,)</version>
         </dependency>
     </dependencies>
 
